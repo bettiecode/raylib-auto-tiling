@@ -15,4 +15,6 @@ features:
 -saving and loading
 -camera movement
 
-there are many improvents to be made, but im moving on to another project
+there are many improvments to be made, but im moving on to another project
+
+remnants of unfinished features can be found inside the code
