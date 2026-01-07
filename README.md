@@ -7,8 +7,6 @@ w to paint tile type 1
 e to paint tile type 2
 hold down alt to be in a different layer
 
-to run the example on linux, inside the projects directory, type: ./a.out
-
 features:
 -layers
 -auto-tiling
